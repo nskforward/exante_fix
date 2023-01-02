@@ -1,1 +1,1 @@
-# Exante FIX API for Golang
+# Exante FIX API
